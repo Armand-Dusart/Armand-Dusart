@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+modern+web+applications;React+%2F+Next.js+%2F+TypeScript;SaaS+platforms+at+scale;From+product+design+to+production)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/Website-armanddusart.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://armanddusart.com)
+[![Website](https://img.shields.io/badge/Website-armanddusart.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://armanddusart.com/?utm_source=github&utm_medium=profile&utm_campaign=portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-Armand--Dusart-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Armand-Dusart)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Armand%20Dusart-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armand-dusart-947456205/)
 [![Medium](https://img.shields.io/badge/Medium-dusartarmand-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dusartarmand)
